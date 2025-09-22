@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Co-Instructor
+- **Course:** *Architectural Programming and Spatial Analysis*  
+  **Role:** Teaching Assistant  
+  **Materials:** [Slides PDF](/assets/pdf/teaching/programming_slides.pdf)
 
-Organize your courses by years, topics, or universities, however you like!
+### 2023 · MIT Senseable City Lab
+- **Workshop:** *AI for Urban Perception*  
+  **Role:** Co-Instructor  
+  **Notes:** [Workshop Repo](https://github.com/yourname/ai-urban-workshop)
+
+### 2022 · Guest Lectures
+- *Data-driven Urban Analysis* — Peking University  
+- *Space Syntax and Libraries* — Politecnico di Milano

@@ -1,34 +1,76 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"guo":
+  - firstname: ["Song", "S."]
+    url: https://songguo.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"jang":
+  - firstname: ["Kee Moon", "K. M.", "Kee M."]
+    url: https://www.keemoonjang.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"duarte":
+  - firstname: ["Fábio", "Fabio", "F.", "F. D."]
+    url: https://dusp.mit.edu/people/fabio-duarte
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kang":
+  - firstname: ["Yuhao", "Y."]
+    url: https://liberalarts.utexas.edu/geography/faculty/yk9999
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"ratti":
+  - firstname: ["Carlo", "C."]
+    url: https://dusp.mit.edu/people/carlo-ratti
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Li":
+  - firstname: ["Maosu", "M.", "M. S."]
+    url: https://maosuli.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"xue":
+  - firstname: ["Frank", "F.",'Fan']
+    url: https://frankxue.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"zhuang":
+  - firstname: ["Weimin", "W."]
+    url: https://www.arch.tsinghua.edu.cn/info/FArchitecture/1744
+"yeh":
+  - firstname: ["Anthony", "Anthony G.O.", "A.", "A. G. O."]
+    url: "https://www.arch.hku.hk/staff/upad/yeh-anthony-g-o/"
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"iacussi":
+  - firstname: ["Leonardo", "L."]
+    url: "https://www.mecc.polimi.it/en/staff/leonardo.iacussi"
+
+"mora":
+  - firstname: ["Simone", "S."]
+    url: "https://simonemora.com/"
+
+"speridiao":  
+  - firstname: ["Andrei", "A."]
+    url: "https://andrei.cc/"
+
+"oyinlola":
+  - firstname: ["Oluwatobi", "O."]
+    url: "https://en.wikipedia.org/wiki/Oluwatobi_%22Tobi%22_Oyinlola"
+
+"papitto":
+  - firstname: ["Giancarlo", "G."]
+    url: "https://deims.org/node/1639"
+
+"fugiglando":
+  - firstname: ["Umberto", "U."]
+    url: "https://www.linkedin.com/in/umbertofugi"
+
+"chiariotti":
+  - firstname: ["Paolo", "P."]
+    url: "https://www.mecc.polimi.it/en/staff/paolo.chiariotti"
+
+"cigada":
+  - firstname: ["Alfredo", "A."]
+    url: "https://www.mecc.polimi.it/en/staff/alfredo.cigada"
+"li":
+  - firstname: ["Luke", "L.", "Luke Li"]
+    url: "https://www.arch.tsinghua.edu.cn/info/FArchitecture/1717"
+
+"zhou":
+  - firstname: ["Zhengxu"]
+    url: "https://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1973"
+"zhao":
+  - firstname: ["Bin"]
+    url: "https://arch.tsinghua.edu.cn/info/Building%20Science%20and%20Technology/1824"
