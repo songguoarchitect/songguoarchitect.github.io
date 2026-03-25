@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Research projects and grants I participate as the main contributor
 nav: true
-nav_order: 3
+nav_order: 5
 display_categories: [ongoing, completed]
 horizontal: false
 ---
